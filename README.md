@@ -1,2 +1,2 @@
 # very-basic-resume
-<a href="./Resume/index.html"> Resume </a>
+<a href="/Resume/index.html"> Resume </a>
