@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+main h2{
+    font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 44px;
+}
