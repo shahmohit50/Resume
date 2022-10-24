@@ -5,10 +5,28 @@ body{
 
 }
 
-main h2{
+main h4{
     font-family: 'Georgia';
 font-style: normal;
 font-weight: 400;
-font-size: 39px;
-line-height: 44px;
+}
+#img{
+    width: 550px;
+}
+main{
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.text{
+    text-align: left;
+    width: 386px;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: small;
 }
